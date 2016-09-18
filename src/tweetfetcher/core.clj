@@ -39,10 +39,10 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;fetch data
 
-(def my-creds  (make-oauth-creds "KgKKVTkrs7yG9tUrAQ4Yjw"
-                                 "lqhPEfxK4bENdL0wz7h5GE0OR3EVlRUdOKl8zjvhI"
-                                 "470176907-ZlU0Hv3u5B43fs1CRMEYYrBHcjMLDLMFhm3RxGj1"
-                                 "dgW3znO1U9B6ak8eRHnHfgYTpL0xIddpNyBmuZJR3gY"))
+(def my-creds  (make-oauth-creds ""
+                                 ""
+                                 ""
+                                 ""))
 
 (def params {:q ""
              :count 100

@@ -12,7 +12,7 @@
                      {
                       :classname  "org.postgresql.Driver"
                       :subprotocol  "postgresql"
-                      :subname  "//localhost:5432/dom"
+                      :subname  "//localhost:5432/user"
                       :init-pool-size 4
                       :max-pool-size 50
                       :partitions 2
