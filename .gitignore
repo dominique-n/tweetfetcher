@@ -1,0 +1,6 @@
+*.swp
+*.swo
+resources/
+dev-resources/
+data/
+target/
